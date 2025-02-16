@@ -7,6 +7,7 @@ Backend Engineer [@adfidence](https://github.com/adfidence)
 - [eventiq](https://github.com/asynq-io/eventiq)
 - [fastapi-views](https://github.com/asynq-io/fastapi-views)
 - [sqlargon](https://github.com/asynq-io/sqlargon)
+- [redguard](https://github.com/asynq-io/redguard)
 
 ## I’m currently learning
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
