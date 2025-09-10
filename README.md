@@ -2,7 +2,7 @@
 
 Backend Engineer [@adfidence](https://github.com/adfidence)
 
-Maintaner [@asynq-io](https://github.com/asynq-io)
+Creator & maintaner [@asynq-io](https://github.com/asynq-io)
 
 ## Creator of:
 
